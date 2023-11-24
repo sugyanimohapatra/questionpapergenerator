@@ -1,0 +1,19 @@
+[
+    { "content": "Question 1", "difficulty": "easy", "marks": 1 },
+    { "content": "Question 2", "difficulty": "easy", "marks": 2 },
+    { "content": "Question 3", "difficulty": "easy", "marks": 3 },
+    { "content": "Question 4", "difficulty": "easy", "marks": 4 },
+    { "content": "Question 5", "difficulty": "easy", "marks": 5 },
+    { "content": "Question 5", "difficulty": "easy", "marks": 6 },
+    { "content": "Question 5", "difficulty": "easy", "marks": 7 },
+    { "content": "Question 6", "difficulty": "medium", "marks": 10 },
+    { "content": "Question 7", "difficulty": "medium", "marks": 15 },
+    { "content": "Question 8", "difficulty": "medium", "marks": 5 },
+    { "content": "Question 9", "difficulty": "medium", "marks": 8 },
+    { "content": "Question 10", "difficulty": "medium", "marks": 7 },
+    { "content": "Question 11", "difficulty": "medium", "marks": 20 },
+    { "content": "Question 12", "difficulty": "hard", "marks": 25 },
+    { "content": "Question 12", "difficulty": "hard", "marks":  10},
+    { "content": "Question 12", "difficulty": "hard", "marks": 30 }
+  ]
+  
